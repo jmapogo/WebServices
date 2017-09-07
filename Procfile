@@ -1,1 +1,1 @@
-web: java -jar WebServices.jar
+web: java -jar WebServices.jar -Dhttp.port=$PORT
