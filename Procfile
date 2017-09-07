@@ -1,2 +1,2 @@
-web: java -jar WebServices.jar $PORT
-worker: java -jar WebServices.jar $PORT
+web: java -jar WebServices.jar $PORT 
+worker: java -jar WebServices.jar $PORT 
